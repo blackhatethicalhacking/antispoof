@@ -6,6 +6,9 @@ by blackhatethicalhacking.com
 
   GNU nano 2.9.3                                               README.md
 
+# Anti Spoof
+inspired by: https://github.com/europa502
+
 # Description-
 
 ARP spoofing allows an attacker to intercept data frames on a network, modify the traffic, or stop all traffic. Often the attack 
