@@ -16,7 +16,7 @@ by blackhatethicalhacking.com
 
 # Description-
 
-ARP spoofing allows an attacker to intercept data frames on a network, modify the traffic, or stop all traffic. Often the attack $
+ARP spoofing allows an attacker to intercept data frames on a network, modify the traffic, or stop all traffic. Often the attack 
 
 Github:
 https://github.com/blackhatethicalhacking/antispoof
